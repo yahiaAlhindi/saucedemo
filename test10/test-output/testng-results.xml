@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-05T22:00:52 GMT+03:00" name="Default suite" finished-at="2025-04-05T22:01:10 GMT+03:00" duration-ms="17654">
+    <groups>
+    </groups>
+    <test started-at="2025-04-05T22:00:52 GMT+03:00" name="Default test" finished-at="2025-04-05T22:01:10 GMT+03:00" duration-ms="17654">
+      <class name="test10.StudentTableTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test10.StudentTableTest@1283bb96]" started-at="2025-04-05T22:00:52 GMT+03:00" name="setUp" finished-at="2025-04-05T22:00:54 GMT+03:00" duration-ms="1749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="printPassColumnValues()[pri:0, instance:test10.StudentTableTest@1283bb96]" started-at="2025-04-05T22:00:54 GMT+03:00" name="printPassColumnValues" finished-at="2025-04-05T22:00:59 GMT+03:00" duration-ms="5265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printPassColumnValues -->
+        <test-method signature="printPassValuesAndRowsWithYes()[pri:0, instance:test10.StudentTableTest@1283bb96]" started-at="2025-04-05T22:00:59 GMT+03:00" name="printPassValuesAndRowsWithYes" finished-at="2025-04-05T22:01:05 GMT+03:00" duration-ms="5263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printPassValuesAndRowsWithYes -->
+        <test-method signature="printRowsWherePassIsYes()[pri:0, instance:test10.StudentTableTest@1283bb96]" started-at="2025-04-05T22:01:05 GMT+03:00" name="printRowsWherePassIsYes" finished-at="2025-04-05T22:01:10 GMT+03:00" duration-ms="5200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printRowsWherePassIsYes -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test10.StudentTableTest@1283bb96]" started-at="2025-04-05T22:01:10 GMT+03:00" name="tearDown" finished-at="2025-04-05T22:01:10 GMT+03:00" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test10.StudentTableTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
